@@ -2,13 +2,9 @@
 
 O Weather App foi um programa que fiz querendo mesclar o Django ao Web Scraping. Sei que é possível e é bem melhor usar uma API, mas, eu escolhi o Web Scraping pois é algo que eu tenho muita experiencia e gostaria de mesclar essas duas tecnologia.
 
-![Untitled](img1)
+![Untitled](img1) ![Untitled](img2)
+![Untitled](img3) ![Untitled](img4)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd843c4b-c8bc-403e-913f-9a920b520aa7/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef1700d7-93e0-4d2b-84b0-3887818df041/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36e80c03-2255-4785-8e40-ef2a1d12f286/Untitled.png)
 
 O HTML e CSS peguei na Internet.
 
