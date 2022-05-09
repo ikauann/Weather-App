@@ -12,7 +12,7 @@ O HTML e CSS peguei na Internet.
 
 Lógica do Programa:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43744244-f2c8-4218-8ed8-b2cf2b3e6434/Untitled.png)
+![Untitled](logica)
 
 Foi usado as bibliotecas;
 
